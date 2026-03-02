@@ -1,0 +1,40 @@
+.f1{
+    background-color: rgb(28, 28, 28);
+    
+    padding: 15px;
+    border-radius: 20px;
+    
+}
+.f2{
+    color: white;
+    margin: 0;
+    font-size: 40px;
+    
+}
+body{
+    background-color: rgb(75, 75, 75);
+}
+.f3{
+    background-color: rgb(28, 28, 28);
+    
+    padding: 15px;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+.f4{
+    color: white;
+    font-weight: bold;
+}
+
+.f12{
+    
+    background-color: rgb(28, 28, 28);
+    width: 100%;
+    margin-top: 5px;
+    padding: 15px;
+    border-radius: 20px;
+}
+.text{
+    color: white;
+    font-weight: bold;
+}
